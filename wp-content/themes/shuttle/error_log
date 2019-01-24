@@ -1,0 +1,4 @@
+[16-Jan-2019 12:40:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_archive_template() in /home/ysh8ol7wuuhd/public_html/wp-content/themes/shuttle/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/ysh8ol7wuuhd/public_html/wp-content/themes/shuttle/index.php on line 8
